@@ -1,5 +1,5 @@
 補充
-#include <iostream>
+#include <iostream> /n 
 #include <math.h> 
 using namespace std;
 
